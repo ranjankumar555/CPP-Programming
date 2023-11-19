@@ -17,7 +17,7 @@ int main(){
     int c = a+b;
 
     //prints the result
-    cout<<"the sum of "<< a <<" and "<< b << " is "<< c <<endl;
+    cout<<"The sum of "<< a <<" and "<< b << " is "<< c <<endl;
     return 0;
 
 }
