@@ -5,7 +5,8 @@ class A{
   private:
   int a;
   public:
-  void display(){
+  
+    void display(){
     cout<<"Class A invoked"<<endl;
   }
 };
