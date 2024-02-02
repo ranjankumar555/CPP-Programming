@@ -1,3 +1,4 @@
+//Write a C program to print all negative elements in an array.
 #include<bits/stdc++.h>
 using namespace std;
 #define SIZE 3
