@@ -74,6 +74,6 @@ int main(){
     //call thr inorder() function to print the data;
     //inorder(root);
     //preOrder(root);
-    //postOder(root);
+    //postOrder(root);
     return 0;
 }
