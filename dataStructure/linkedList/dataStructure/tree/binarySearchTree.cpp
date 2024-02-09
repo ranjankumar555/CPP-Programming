@@ -73,7 +73,7 @@ int main(){
     
     //call thr inorder() function to print the data;
     //inorder(root);
-    //preOder(root);
+    //preOrder(root);
     //postOder(root);
     return 0;
 }
