@@ -62,8 +62,6 @@ class stack{
             return 0;
         }
         return size;
-        
-        
         // another approach that never fails regardless of direct implementation
 //      int length() {
 //      int count = 0;
