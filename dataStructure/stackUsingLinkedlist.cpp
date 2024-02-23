@@ -64,7 +64,7 @@ class stack{
         return size;
         
         
-        // another approach
+        // another approach that never fails regardless of direct implementation
 //      int length() {
 //      int count = 0;
 //      stackNode* current = top;
